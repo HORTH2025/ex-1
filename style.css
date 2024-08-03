@@ -1,0 +1,20 @@
+div{
+    margin: 20px 20px 20px 20px;
+    border-radius: 20px;
+    padding: 100px;
+    background-color: #FFC0CC;
+    border-top: 20px solid #81007F;
+    border-bottom: 20px solid #81007F;
+}
+#green{
+    background:#007F00 ;
+    padding-top: 60px;
+    padding-bottom: 40px;
+    text-align: center;
+    margin: 30px 20px;
+    
+}
+#red{
+    border: 5px dotted black;
+    margin: 30px, 20px, 0, 30px ;
+}
